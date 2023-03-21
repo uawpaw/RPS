@@ -1,0 +1,18 @@
+#rock{
+    background-image: url("rock.png") ;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+#paper{
+    background-image: url("paper.png") ;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+#scissors{
+    background-image: url("scissors.png") ;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
